@@ -4,7 +4,7 @@
 #### ● ORB-SLAM2 official [homepage](https://github.com/raulmur/ORB_SLAM2), ORB-SLAM2 ROS [homepage](https://github.com/appliedAI-Initiative/orb_slam_2_ros)
 ## ● Result
 + Real world on Jetson Xavier [clip1](https://youtu.be/-jueoC-YqF4) : Stereo, 30fps, 1200 features, Intel realsense D435i
-+ Flightgoggles [clip2](https://youtu.be/4iQf8rBA9mw) : [flightgoggles](flightgoggles.mit.edu)
++ Flightgoggles [clip2](https://youtu.be/4iQf8rBA9mw) : FlightGoggles [simulator](http://flightgoggles.mit.edu/)
 
 <br><br>
 
