@@ -26,6 +26,7 @@
    $ cmake ../eigen_source_folder_name && sudo make install
   ~~~
 
+### ● highly recommend this **pull request** to speedup loading Vocabulary [here](https://github.com/raulmur/ORB_SLAM2/pull/21)
 ### ● Install ORB-SLAM2-ROS as [here](https://github.com/appliedAI-Initiative/orb_slam_2_ros)
  ~~~shell
   $ cd ~/catkin_ws/src && git clone https://github.com/appliedAI-Initiative/orb_slam_2_ros
