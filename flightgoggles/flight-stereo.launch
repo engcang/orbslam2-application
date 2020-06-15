@@ -3,7 +3,7 @@
   <node name="orb_slam2_stereo" pkg="orb_slam2_ros"
       type="orb_slam2_ros_stereo" args="
           $(find orb_slam2_ros)/orb_slam2/Vocabulary/ORBvoc.txt
-          $(find orb_slam2_ros)/orb_slam2/config/flightstereo.yaml"
+          $(find orb_slam2_ros)/ros/config/flightstereo.yaml"
       output="screen">
        <remap from="image_left/image_color_rect" to="/uav/camera/left/image_rect_color" />
        <remap from="image_right/image_color_rect" to="/uav/camera/right/image_rect_color" />
