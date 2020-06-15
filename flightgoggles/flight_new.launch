@@ -1,4 +1,5 @@
 <launch>
+  <node name="orb_traj" pkg="hector_trajectory_server" type="orb_h" />
   <node name="orb_slam2_stereo" pkg="orb_slam2_ros"
       type="orb_slam2_ros_stereo" output="screen">
 
